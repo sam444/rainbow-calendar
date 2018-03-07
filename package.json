@@ -1,0 +1,19 @@
+{
+  "name": "rainbowui-calendar",
+  "version": "2.0.0",
+  "description": "RainbowUI Calendar",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "RainbowUI Team",
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-ui/calendar.git"
+  },
+  "dependencies": {
+    "bootstrap-calendar": "^0.2.4",
+    "rainbowui-core": "^2.0.0"
+  }
+}
